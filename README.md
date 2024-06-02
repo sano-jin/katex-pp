@@ -23,8 +23,8 @@ Prerequisites:
 Installation:
 
 ```bash
-git clone https://github.com/sano-jin/katex-macro-preprocessor.git
-cd katex-macro-preprocessor
+git clone https://github.com/sano-jin/katex-pp.git
+cd katex-pp
 opam install .
 dune build
 ```

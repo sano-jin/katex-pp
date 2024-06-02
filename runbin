@@ -9,5 +9,5 @@ fi
 
 file="$(realpath "$1")"
 cd "$(dirname "$0")"
-cat "$file" | opam exec -- dune exec katex_pp
-# cat "$file" | ./_build/default/bin/main.exe 
+# cat "$file" | opam exec -- dune exec katex_pp
+cat "$file" | ./_build/default/bin/main.exe 
