@@ -1,0 +1,4 @@
+(library
+ (name util)
+ (public_name katex_pp.util)
+ (libraries unix))

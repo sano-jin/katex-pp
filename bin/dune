@@ -1,0 +1,9 @@
+(executable
+ (public_name katex_pp)
+ (name main)
+ (libraries 
+   katex_pp
+   core 
+   str 
+   async
+   ))

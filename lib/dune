@@ -1,0 +1,3 @@
+(library
+ (name katex_pp)
+ (libraries core str))
